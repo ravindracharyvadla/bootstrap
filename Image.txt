@@ -1,0 +1,14 @@
+class:
+
+class="card-img-top"
+
+Example:
+
+<img class="card-img-top" src="imagename.extension" alt="Card image">
+
+Other classes:
+1. class="rounded"
+2. class="rounded-circle"
+3. class="img-thumbnail"
+4. class="float-left"
+5. class="float-right"

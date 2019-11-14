@@ -1,0 +1,33 @@
+classes for Navbar:
+-------------------------------------
+
+1. class="navbar navbar-expand-sm bg-dark navbar-dark" (nav)
+2. class="navbar-nav" (ul)
+3. class="nav-item active" (li)(active is optional)
+4. class="nav-link" (<a>)
+5. class="nav-link disabled" (<a> with disabled)
+6. class="navbar-brand" (<a> for logo)
+6. class="navbar-toggler" type="button" data-toggle="collapse" data-target="#collapsibleNavbar" (<button> for <!-- Toggler/collapsibe Button -->)
+7. class="navbar-toggler-icon" (<span>)
+
+8. drop down
+
+<!-- Dropdown -->
+    <li class="nav-item dropdown">
+      <a class="nav-link dropdown-toggle" href="#" id="navbardrop" data-toggle="dropdown">
+        Users
+      </a>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="#">Admin</a>
+        <a class="dropdown-item" href="#">Employee</a>
+      </div>
+    </li>
+
+
+9. class="form-inline" (<form>)
+
+10. class="form-control mr-sm-2" (<input>)
+
+
+
+
